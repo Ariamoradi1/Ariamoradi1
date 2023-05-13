@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Ariamoradi1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33be8cf4ba7565123c8bc_YPD3ulQQAGQpOcnqIm3QzSTRgzmr1SexpW9ZjMpJ1mAnUxx4iF05XOTu44sk0qQG-8XgBcYmGZGAD-5SAZvJl3TjtmhgWnn-w0C2XKwhBscV78RVvhwZfyp0v_Pa6sNj5zxpOvRW.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ariamoradi1&icon=0&color=0)](https://visitcount.itsvg.in)
